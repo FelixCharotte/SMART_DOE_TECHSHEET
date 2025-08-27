@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+python-dotenv
+langchain-openai
+docxtpl
+python-docx
+playwright
+streamlit
